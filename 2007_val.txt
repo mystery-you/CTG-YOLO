@@ -1,0 +1,162 @@
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_129.jpg 1,76,94,123,0 98,58,169,134,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_130.jpg 2,134,155,179,0 2,6,84,99,0 77,104,199,158,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_140.jpg 27,115,145,185,0 146,3,194,164,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_143.jpg 12,104,95,186,0 9,31,137,100,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_148.jpg 4,39,85,97,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_149.jpg 33,5,149,69,0 26,108,154,179,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_150.jpg 52,148,186,196,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_158.jpg 51,57,125,135,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_177.jpg 8,140,149,199,0 101,42,183,110,0 6,99,123,161,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_182.jpg 30,121,80,198,0 142,135,183,194,0 143,25,188,82,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_184.jpg 2,64,101,127,0 58,133,133,191,0 110,79,199,123,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_185.jpg 1,81,184,160,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_186.jpg 54,91,178,169,0 1,4,103,177,0 41,15,184,94,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_189.jpg 4,94,177,152,0 3,16,133,77,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_198.jpg 47,99,191,189,0 1,48,85,145,0 71,1,200,42,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_201.jpg 16,79,143,193,0 31,35,160,88,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_205.jpg 26,144,83,198,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_219.jpg 46,9,116,123,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_221.jpg 157,1,200,187,0 1,87,136,162,0 79,36,198,90,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_23.jpg 1,6,171,112,0 1,122,180,200,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_251.jpg 4,80,95,192,0 42,7,200,65,0 138,48,192,173,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_252.jpg 1,6,104,59,0 1,82,199,157,0 108,1,191,78,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_275.jpg 10,26,99,141,0 3,142,183,197,0 58,53,200,169,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_284.jpg 78,83,184,170,0 17,16,129,102,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_286.jpg 1,9,181,38,0 17,120,195,154,0 6,54,125,111,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_32.jpg 1,91,150,163,0 1,2,158,79,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_51.jpg 53,120,200,160,0 70,1,177,55,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_69.jpg 1,112,84,187,0 9,20,189,97,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_72.jpg 6,48,200,128,0 37,146,182,197,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_74.jpg 2,43,105,158,0 130,52,190,167,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_75.jpg 4,54,147,161,0 158,24,200,173,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/crazing_99.jpg 4,110,89,200,0 126,49,200,198,0 3,2,105,96,0
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_1.jpg 33,5,46,36,1 120,34,130,60,1 116,115,135,198,1 115,72,140,116,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_133.jpg 69,1,140,200,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_134.jpg 53,1,99,199,1 55,1,84,103,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_154.jpg 51,54,89,177,1 92,109,119,195,1 156,1,198,163,1 96,10,117,58,1 112,75,126,106,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_155.jpg 86,8,118,78,1 125,10,154,122,1 132,113,167,198,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_165.jpg 1,56,21,166,1 67,1,133,197,1 10,18,25,50,1 122,108,142,168,1 7,155,28,200,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_167.jpg 10,6,53,189,1 110,1,144,200,1 92,10,114,86,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_170.jpg 77,16,129,199,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_171.jpg 82,1,123,120,1 81,134,104,198,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_176.jpg 76,35,114,197,1 65,15,87,103,1 99,1,110,23,1 2,139,23,178,1 97,86,117,132,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_178.jpg 11,132,38,182,1 176,6,199,110,1 113,130,135,168,1 10,17,27,44,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_193.jpg 121,20,145,131,1 161,34,190,151,1 147,1,164,30,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_219.jpg 110,93,133,179,1 87,52,108,91,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_267.jpg 33,106,56,183,1 141,36,183,199,1 153,5,171,42,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_28.jpg 35,1,69,198,1 87,13,112,75,1 105,54,129,95,1 86,107,107,157,1 94,159,117,199,1 147,71,166,147,1 180,101,196,144,1 150,30,168,62,1 143,147,161,193,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_282.jpg 91,20,121,114,1 91,96,110,181,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_288.jpg 28,6,58,185,1 26,138,46,199,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_35.jpg 119,5,157,96,1 148,2,191,196,1 118,127,141,196,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_39.jpg 12,21,40,193,1 48,5,85,142,1 114,2,149,192,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_49.jpg 133,3,178,197,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/inclusion_70.jpg 87,46,117,116,1 86,127,106,179,1 24,5,73,179,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_104.jpg 1,88,41,200,2 50,107,84,157,2 129,26,168,94,2 152,140,199,200,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_109.jpg 1,124,23,153,2 67,20,130,170,2 176,116,200,157,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_116.jpg 27,4,92,200,2 114,62,196,200,2 163,1,194,29,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_130.jpg 21,17,64,189,2 116,87,192,199,2 161,1,187,16,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_153.jpg 27,53,132,157,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_187.jpg 59,1,117,114,2 1,62,55,133,2 64,155,112,200,2 32,109,53,136,1 46,156,64,179,1 165,35,190,64,1 175,91,190,113,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_199.jpg 6,6,163,131,2 91,120,142,199,2 55,148,116,195,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_204.jpg 48,1,110,200,2 160,14,199,98,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_210.jpg 1,1,59,200,2 61,1,200,191,2 109,149,147,188,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_229.jpg 70,6,166,190,2 1,1,61,29,2 175,134,200,200,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_232.jpg 14,41,63,80,2 103,12,146,80,2 37,163,85,199,2 113,66,185,115,2 1,1,40,25,2 71,130,141,169,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_234.jpg 9,1,80,94,2 15,107,83,146,2 126,72,189,121,2 12,157,75,199,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_238.jpg 61,62,122,151,2 51,1,124,52,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_241.jpg 71,41,125,177,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_252.jpg 127,106,193,156,2 121,163,176,200,2 19,150,62,197,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_256.jpg 6,1,88,79,2 119,54,171,125,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_259.jpg 1,124,62,187,2 78,8,119,36,2 7,49,52,152,2 34,47,68,81,1 171,8,199,26,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_266.jpg 74,5,182,103,2 4,2,38,31,2 9,6,62,76,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_273.jpg 10,117,67,175,2 13,50,53,95,2 123,1,187,185,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_280.jpg 60,56,125,200,2 77,4,114,93,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_295.jpg 6,1,85,191,2 144,1,200,124,2 143,118,183,198,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_41.jpg 18,40,57,81,2 33,118,77,192,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_42.jpg 90,7,129,60,2 65,69,144,193,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_47.jpg 27,34,98,138,2 105,24,191,114,2 104,130,144,189,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_50.jpg 61,2,106,58,2 80,125,119,178,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_75.jpg 55,100,95,169,2 107,24,158,110,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_77.jpg 164,74,199,110,2 136,153,197,199,2 23,1,52,32,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_81.jpg 1,32,53,144,2 1,1,43,38,2 134,1,182,51,2 21,151,58,195,2 152,133,195,200,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/patches_83.jpg 79,55,125,199,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_106.jpg 82,2,197,199,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_109.jpg 25,2,143,199,3 152,1,195,199,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_125.jpg 136,2,198,197,3 4,2,130,111,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_127.jpg 4,2,81,191,3 90,2,194,192,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_131.jpg 62,21,177,188,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_196.jpg 30,1,199,116,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_197.jpg 114,113,199,200,3 48,3,103,198,3 176,92,200,116,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_199.jpg 30,5,159,192,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_202.jpg 9,4,200,197,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_203.jpg 4,8,195,190,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_211.jpg 75,1,199,171,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_243.jpg 6,1,195,196,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_247.jpg 8,6,111,161,3 20,171,73,200,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_256.jpg 95,1,200,198,3 2,1,99,198,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_260.jpg 1,1,148,198,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_270.jpg 53,3,196,197,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_280.jpg 8,8,93,183,3 75,17,138,155,3 136,30,200,198,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_285.jpg 19,21,150,191,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_29.jpg 1,1,197,198,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_292.jpg 46,1,200,138,3 73,107,197,191,3 26,136,71,198,2 1,43,52,126,2
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_35.jpg 89,1,200,186,3 1,1,118,197,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_40.jpg 3,1,200,198,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/pitted_surface_96.jpg 1,1,195,199,3
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_10.jpg 59,39,122,71,4 54,83,144,139,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_101.jpg 100,3,175,62,4 101,76,155,119,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_102.jpg 122,21,153,49,4 66,65,132,98,4 96,114,169,149,4 84,151,178,199,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_108.jpg 57,36,128,154,4 15,64,60,166,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_115.jpg 63,42,136,152,4 161,1,197,51,4 71,136,126,199,4 77,2,134,63,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_116.jpg 81,66,125,163,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_124.jpg 72,10,115,141,4 160,161,195,189,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_126.jpg 71,61,110,110,4 72,126,117,200,4 143,146,199,200,4 85,1,122,40,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_129.jpg 88,34,147,135,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_185.jpg 3,26,55,194,4 73,28,199,160,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_201.jpg 45,64,106,128,4 104,21,160,86,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_213.jpg 51,89,179,199,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_231.jpg 1,1,57,37,4 1,94,66,178,4 109,117,161,196,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_235.jpg 14,83,102,159,4 23,12,111,66,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_241.jpg 62,3,156,100,4 53,104,155,196,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_25.jpg 53,48,106,163,4 137,127,178,193,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_255.jpg 1,42,69,197,4 72,27,113,129,4 5,5,69,68,4 153,50,195,83,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_263.jpg 61,83,172,196,4 35,2,181,94,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_284.jpg 55,98,131,199,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_292.jpg 24,124,162,200,4 70,41,143,132,4 95,1,146,51,4 47,11,90,46,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_295.jpg 52,109,167,198,4 109,1,163,96,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_32.jpg 85,37,137,103,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_38.jpg 117,94,191,189,4 116,16,191,48,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_41.jpg 128,66,197,199,4 120,1,192,34,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_43.jpg 37,92,109,197,4 20,7,94,40,4 23,14,88,96,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_5.jpg 32,102,120,189,4 52,25,105,92,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_51.jpg 132,3,200,86,4 1,161,81,200,4 133,126,199,156,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_52.jpg 159,7,200,83,4 24,84,124,140,4 140,80,199,197,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_54.jpg 74,14,138,179,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_59.jpg 76,56,175,158,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_70.jpg 2,76,103,200,4 141,169,197,195,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/rolled-in_scale_88.jpg 41,27,114,152,4 107,40,166,166,4
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_100.jpg 1,94,200,122,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_110.jpg 16,1,61,198,5 108,19,126,105,1 134,26,153,70,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_146.jpg 47,1,60,150,5 66,1,95,199,5 176,82,188,111,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_157.jpg 46,1,79,199,5 99,1,115,199,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_158.jpg 46,1,67,199,5 87,70,104,200,5 118,1,135,160,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_163.jpg 1,1,17,198,5 39,77,52,199,5 71,1,86,165,5 149,2,182,198,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_166.jpg 24,1,56,199,5 75,1,94,199,5 160,107,171,198,5 180,1,193,99,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_167.jpg 84,1,98,197,5 128,1,144,198,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_170.jpg 88,1,106,200,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_176.jpg 101,1,129,199,5 151,28,163,199,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_187.jpg 24,1,60,199,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_212.jpg 16,1,29,200,5 133,1,151,200,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_214.jpg 14,43,32,198,5 128,1,154,200,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_220.jpg 141,1,165,116,5 105,1,135,112,5 79,16,93,193,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_233.jpg 3,61,200,80,5 1,144,70,156,5 79,152,91,189,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_237.jpg 26,158,199,176,5 1,37,196,52,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_243.jpg 49,12,200,39,5 24,147,179,165,5 123,45,198,59,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_246.jpg 2,157,180,171,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_248.jpg 36,176,146,195,5 75,21,197,36,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_261.jpg 1,151,199,180,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_267.jpg 1,141,119,160,5 113,181,198,196,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_29.jpg 52,61,80,158,5 93,119,109,199,5 94,1,111,70,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_89.jpg 65,4,76,175,5
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_92.jpg 35,2,52,199,5 60,31,90,192,5 173,169,190,200,1
+C:\Users\asus\Desktop\yolov8-pytorch-master\yolov8-pytorch-master\VOCdevkit/VOC2007/JPEGImages/scratches_99.jpg 1,136,199,163,5
